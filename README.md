@@ -1,0 +1,2 @@
+# LTC
+nicehash LTC minning
